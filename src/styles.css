@@ -1,0 +1,82 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #adefd1ff;
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: #00539cff;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #00539cff;
+}
+p {
+  color: #00539cff;
+}
+input {
+  background-color: #00539cff;
+  width: 10rem;
+  height: 2rem;
+  margin: 1rem auto;
+  border-radius: 0.6rem;
+  padding: 0.3rem;
+  border: 1px solid lightskyblue;
+  color: white;
+}
+
+input:hover {
+  background-color: lightskyblue;
+  color: black;
+}
+
+button {
+  width: 4rem;
+  height: 3rem;
+  margin: 1rem auto;
+  color: #00539cff;
+  background-color: lightcyan;
+  border: 1px solid;
+}
+
+button:hover {
+  background-color: #00539cff;
+  color: white;
+  border-radius: 1rem;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  margin: auto;
+  font-size: 1.5rem;
+}
+li {
+  margin: 0.5rem;
+  margin: auto;
+  list-style-type: none;
+  margin-top: 1rem;
+}
+
+.footer {
+  position: fixed;
+  height: 3rem;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #00539cff;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: black;
+}
