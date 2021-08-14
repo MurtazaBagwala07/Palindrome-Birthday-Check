@@ -1,2 +1,2 @@
 # Palindrome-Birthday-Check
-Created with CodeSandbox
+A webapp to check if input birthday in palindrome or not , also to return nearest palindrome date.
