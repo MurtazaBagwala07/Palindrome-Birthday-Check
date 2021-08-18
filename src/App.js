@@ -178,7 +178,7 @@ export default function App() {
             </a>
           </li>
           <li className="ft">
-            <a target="_blank" href="https://twitter.com">
+            <a target="_blank" href="https://twitter.com/MurtazaBagwala5?s=08">
               Twitter
             </a>
           </li>
